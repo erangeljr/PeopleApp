@@ -1,0 +1,11 @@
+/Users/eddierangel/Projects/PeopleApp/PeopleApp/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/eddierangel/Projects/PeopleApp/PeopleApp/bin/Debug/PeopleApp.dll.mdb
+/Users/eddierangel/Projects/PeopleApp/PeopleApp/bin/Debug/PeopleApp.dll
+/Users/eddierangel/Projects/PeopleApp/PeopleApp/obj/Debug/PeopleApp.dll
+/Users/eddierangel/Projects/PeopleApp/PeopleApp/obj/Debug/PeopleApp.dll.mdb
+/Users/eddierangel/Projects/PeopleApp/PeopleApp/bin/Debug/Xamarin.Forms.Core.dll
+/Users/eddierangel/Projects/PeopleApp/PeopleApp/bin/Debug/Xamarin.Forms.Xaml.dll
+/Users/eddierangel/Projects/PeopleApp/PeopleApp/bin/Debug/SQLite.Net.dll
+/Users/eddierangel/Projects/PeopleApp/PeopleApp/obj/Debug/PeopleApp.MainPage.xaml
+/Users/eddierangel/Projects/PeopleApp/PeopleApp/obj/Debug/MainPage.xaml.g.cs
+/Users/eddierangel/Projects/PeopleApp/PeopleApp/bin/Debug/SQLite.Net.Async.dll

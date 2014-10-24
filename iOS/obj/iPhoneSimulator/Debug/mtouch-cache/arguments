@@ -1,0 +1,39 @@
+# Version: 8.2.0.193 (959c1e4)
+# [first argument, ignore] # /Users/eddierangel/Projects/PeopleApp/iOS/bin/iPhoneSimulator/Debug/mtouch.exe
+/Library/Frameworks/Xamarin.iOS.framework/Versions/8.2.0.193/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/eddierangel/Projects/PeopleApp/iOS/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--nomanifest \
+	--nosign \
+	-sim \
+	/Users/eddierangel/Projects/PeopleApp/iOS/bin/iPhoneSimulator/Debug/PeopleAppiOS.app \
+	-r \
+	/Users/eddierangel/Projects/PeopleApp/PeopleApp/bin/Debug/PeopleApp.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/2.1/monotouch.dll \
+	-r \
+	/Users/eddierangel/Projects/PeopleApp/packages/Xamarin.Forms.1.2.3.6257/lib/MonoTouch10/Xamarin.Forms.Platform.iOS.dll \
+	-r \
+	/Users/eddierangel/Projects/PeopleApp/packages/Xamarin.Forms.1.2.3.6257/lib/MonoTouch10/Xamarin.Forms.Core.dll \
+	-r \
+	/Users/eddierangel/Projects/PeopleApp/packages/Xamarin.Forms.1.2.3.6257/lib/MonoTouch10/Xamarin.Forms.Xaml.dll \
+	-r \
+	/Users/eddierangel/Projects/PeopleApp/packages/SQLite.Net-PCL.2.4.1/lib/portable-win8+net45+wp8+wpa81+MonoAndroid1+MonoTouch1/SQLite.Net.dll \
+	-r \
+	/Users/eddierangel/Projects/PeopleApp/packages/SQLite.Net.Platform.XamarinIOS.2.4.1/lib/monotouch/SQLite.Net.Platform.XamarinIOS.dll \
+	-debug \
+	-nolink \
+	-sdk \
+	8.0 \
+	-targetver \
+	7.0 \
+	--abi=i386 \
+	/Users/eddierangel/Projects/PeopleApp/iOS/bin/iPhoneSimulator/Debug/PeopleAppiOS.exe \
